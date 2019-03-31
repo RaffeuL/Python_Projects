@@ -1,5 +1,5 @@
 from random import randint
-#Função pra gerar número com um parametro de quantidade de números a serem gerados e o intervalo
+#Função pra gerar número com um parametro de quantidade e o intervalo
 def gerar(quantidade,mini,maxi):
     numerosSorteados = []
     #cria uma lista local para ser retornada ao fim da execução e ser reiniciada
